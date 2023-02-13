@@ -1,0 +1,14 @@
+.emoji {
+  height: 50px;
+}
+.list-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  background-color: transparent;
+  border-width: 0;
+  outline: none;
+}
